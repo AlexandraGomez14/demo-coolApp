@@ -1,0 +1,19 @@
+.Imagen {
+    margin-left: 230px;
+    margin-top: 100px;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    width: 55%;
+    align-content: center;
+}
+
+.Titulo {
+    margin-left: 240px;
+    margin-top: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    width: 55%;
+    align-content: center;
+}

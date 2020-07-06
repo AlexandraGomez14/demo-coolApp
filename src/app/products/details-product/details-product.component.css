@@ -1,0 +1,10 @@
+.Titulo {
+    height: 40px;
+    color: blue;
+    text-align: center
+}
+
+.Linea {
+    background-color: green;
+    height: 2px;
+}
